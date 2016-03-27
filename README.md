@@ -3,10 +3,6 @@ Build script for TFS
 
 This script setups Build process and Release version in completely automated way <br>
 
-Requirements
-------------
-This cookbook includes and supports 'windows' and 'autosetup' cookbooks
-
 Contributing
 ------------
 1. Fork the repository on Github
